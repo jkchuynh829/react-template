@@ -6,6 +6,7 @@
 - Parcel
 - ESLint
 - Prettier
+- Emotion
 
 That's pretty much it!
 
