@@ -5,6 +5,7 @@
 - React/ReactDOM
 - Parcel
 - ESLint
+- Prettier
 
 That's pretty much it!
 
